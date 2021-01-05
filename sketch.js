@@ -40,8 +40,8 @@ function setup() {
  	World.add(world, ground);
 
 	 wall1=new Rectangles(400,570,200,20);
-	 wall2= new Rectangles(400,500,200,20)
-	 wall3= new Rectangles(400,500,200,20)
+	 wall2= new Rectangles(300,500,20,200)
+	 wall3= new Rectangles(500,500,20,200)
 	Engine.run(engine);
   
 }
