@@ -1,7 +1,7 @@
 class Rectangles{
     constructor(x, y, width, height) {
         var options = {
-            'restitution':0.3,
+            'restitution':0.1,
             'friction':1.0,
             'density':1.0
         }
